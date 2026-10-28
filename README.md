@@ -5,8 +5,11 @@ Hệ thống cho phép người học chọn bài tập, soạn mã trên trình
 
 ## 1. Thành viên thực hiện & Phân công
 | STT | Họ và tên | Mã SV | Vai trò & Phần việc phụ trách |
+
 | 1 | Phạm Hoàng Vũ | 1871020673 | Thiết kế CSDL, Bộ điều phối chấm (`worker.php`), Dịch vụ thực thi (`sandbox_service`) |
+
 | 2 | Đặng Thanh Xuân | 1871020679 | Giao diện soạn mã (Monaco Editor), Chạy thử, API Nộp bài & Chống nộp trùng (Idempotency) |
+
 | 3 | Hoàng Anh Quân | 1871020465 | Quản lý bài tập, Tạo phiên bản bộ dữ liệu mới, Chấm lại (Rejudge) & Kiểm thử tự động |
 
 ## 2. Giấy phép & Nguồn dữ liệu bài tập hợp lệ
